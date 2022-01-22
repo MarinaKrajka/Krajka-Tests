@@ -157,7 +157,7 @@ const questions =
 		new Answer("More than 200 thousand peoples", 0),
 		new Answer("About 33 000 piple", 0),
 		new Answer("Less than 15 thousand people", 0),
-		new Answer("310-340 hudreds people", 1)
+		new Answer("31-34 thousand people", 1)
 	]),
 
 	new Question("How old is Kostopil? ", 
