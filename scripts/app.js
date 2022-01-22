@@ -152,12 +152,12 @@ const questions =
 
 	]),
 
-	new Question("How many people live in Kostopli? ", 
+	new Question("How many people live in Kostopil? ", 
 	[
 		new Answer("More than 200 thousand peoples", 0),
 		new Answer("About 33 000 piple", 0),
 		new Answer("Less than 15 thousand people", 0),
-		new Answer("310-340 hudrets people", 1)
+		new Answer("310-340 hudreds people", 1)
 	]),
 
 	new Question("How old is Kostopil? ", 
@@ -183,16 +183,16 @@ const questions =
 		new Answer("capital of Great Britain", 0),
 		new Answer("capital of Ukraine", 0),
 		new Answer("capital of Rivne region ", 0),
-		new Answer("administrative territorial center", 1)
+		new Answer("administrative territorial centre", 1)
 	]),
 
-	new Question("Which river does non flow in Kostopil city? ", 
+	new Question("What river does not flow in Kostopil? ", 
 	[
 		new Answer("Замчисько", 0),
 		new Answer("Случ", 1),
 	]),
 
-	new Question("What was the name of Kostopil before? ", 
+	new Question("What was the previous name of Kostopil? ", 
 	[
 		new Answer("Степань", 0),
 		new Answer("Адамовка", 0),
