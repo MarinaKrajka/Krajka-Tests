@@ -197,7 +197,7 @@ const questions =
 		new Answer("Степань", 0),
 		new Answer("Адамовка", 0),
 		new Answer("Переменка", 0),
-		new Answer("Остальці", 1)
+		new Answer("Остальчики", 1)
 	])
 ];
 
