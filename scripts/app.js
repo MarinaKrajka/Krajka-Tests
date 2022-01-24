@@ -134,9 +134,9 @@ const results =
 [
 	new Result("Вам треба починати вчити англійську якнайшвидше", 0),
 	new Result("Вам треба починати вчити англійську якнайшвидше", 1),
-	new Result("Вас зрозуміють, якщо добавите жестикуляцію", 3),
-	new Result("Ви можете зацікавити нових друзів приїхати в Костопіль, але є ще над чим попрацювати", 5),
-	new Result("Ви відповіли вірно на всі питання", 7)
+	new Result("Вас зрозуміють по англійськи, якщо добавите жестикуляцію", 3),
+	new Result("Ви можете зацікавити нових друзів приїхати в Костопіль, 5 правильних відповідей із семи це не поганий результат", 5),
+	new Result("Ви відповіли вірно на всі питання. Ви справжній Костопільчанин!", 7)
 ];
 
 //Массив с вопросами
@@ -163,8 +163,8 @@ const questions =
 	new Question("How old is Kostopil? ", 
 	[
 		new Answer("older than 750 years", 0),
-		new Answer("younger than 250 years", 0),
-		new Answer("near 290-330 years", 1),
+		new Answer("younger than 230 years", 0),
+		new Answer("near 250-280 years", 1),
 		new Answer("456 years", 0),
 		new Answer("900 years", 0)
 
@@ -183,7 +183,8 @@ const questions =
 		new Answer("capital of Great Britain", 0),
 		new Answer("capital of Ukraine", 0),
 		new Answer("capital of Rivne region ", 0),
-		new Answer("administrative territorial centre", 1)
+		new Answer("administrative territorial centre", 1),
+		new Answer("big village ", 0),
 	]),
 
 	new Question("What river does not flow in Kostopil? ", 
